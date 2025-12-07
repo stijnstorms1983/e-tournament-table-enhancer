@@ -5,25 +5,21 @@
 
 ---
 
-## 🚀 **Installatie**
+## 🚀 Installatie
 
-### ✔️ **Google Chrome**  
+### ✔️ Google Chrome
 De extensie is beschikbaar in de Chrome Web Store:
 
-➡️ **https://chromewebstore.google.com/detail/e-tournament-table-enhanc/oihjnbionefdicgamgkmjkfhijhhmfjg**
+[Klik hier om de extensie in Chrome te installeren](https://chromewebstore.google.com/detail/e-tournament-table-enhanc/oihjnbionefdicgamgkmjkfhijhhmfjg)
 
----
-
-### ✔️ **Microsoft Edge**  
+### ✔️ Microsoft Edge
 Microsoft Edge ondersteunt Chrome-extensies rechtstreeks.
 
 **Installeren in Edge:**
 
-1. Open **Microsoft Edge**  
-2. Ga naar: `edge://extensions/`  
-3. Zet **"Toestaan van extensies uit andere stores"** aan  
-4. Ga vervolgens naar de Chrome Web Store link:  
-   https://chromewebstore.google.com/detail/e-tournament-table-enhanc/oihjnbionefdicgamgkmjkfhijhhmfjg  
-5. Klik **"Toevoegen aan Edge"**
-
-Edge herkent de extensie automatisch en toont een installatiemelding.
+1. Open **Microsoft Edge**
+2. Ga naar: edge://extensions/
+3. Zet "Toestaan van extensies uit andere stores" aan
+4. Ga naar de Chrome Web Store via deze link:
+   [E-Tournament Table Enhancer in Chrome Web Store](https://chromewebstore.google.com/detail/e-tournament-table-enhanc/oihjnbionefdicgamgkmjkfhijhhmfjg)
+5. Klik **Toevoegen aan Edge**
